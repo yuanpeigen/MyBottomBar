@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/study/MyBottomBar/bottom-bar/src/main/res/values-sw600dp/bools.xml -->
+    <eat-comment/>
+    <bool name="bb_bottom_bar_is_tablet_mode">true</bool>
+</resources>
